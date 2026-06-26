@@ -24,3 +24,5 @@ A comprehensive COVID-19 data analysis and visualization project built to monito
 
 ## Purpose
 This project helps users understand COVID-19 trends through data visualization and supports data-driven decision-making.# covid-19-dashboard
+## Screenshot / Demo
+Show.what the dashboard look like.-1[Alt_txt](https://github.com/pradhan-suresh/covid-19-dashboard/blob/main/Screenshot%202026-06-26%20120935.png)
